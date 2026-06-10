@@ -10,17 +10,18 @@ Patterns, frameworks, and operating models for building internal developer platf
 - Kubernetes
 - Observability
 - Developer Experience
-- Self-Service Platforms
-- Platform Governance
+- Self-service platforms
+- Platform governance
 
 ## Reference Areas
 
-- Platform Architecture
-- Team Topologies
-- CI/CD Standards
-- Security Controls
-- Developer Portals
+- Platform architecture
+- Team topologies
+- CI/CD standards
+- Security controls
+- Developer portals
 
 ---
 
 Building scalable engineering organizations through platform thinking.
+
