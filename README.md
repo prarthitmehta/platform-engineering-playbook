@@ -1,27 +1,11 @@
 # Platform Engineering Playbook
 
-Patterns, frameworks, and operating models for building internal developer platforms.
+Patterns, frameworks, and operating models for building internal developer platforms, secure delivery systems, and AI-assisted engineering workflows.
 
-## Topics
+## Catalog
 
-- Internal Developer Platforms
-- Golden Paths
-- GitOps
-- Kubernetes
-- Observability
-- Developer Experience
-- Self-service platforms
-- Platform governance
-
-## Reference Areas
-
-- Platform architecture
-- Team topologies
-- CI/CD standards
-- Security controls
-- Developer portals
-
----
-
-Building scalable engineering organizations through platform thinking.
-
+| Playbook | Focus |
+|---|---|
+| CodeCommit to GitLab Migration | DevOps migration automation |
+| Amazon Q for Development & Security | AI-assisted SDLC workflow |
+| Internal Developer Platform | Golden paths and self-service |

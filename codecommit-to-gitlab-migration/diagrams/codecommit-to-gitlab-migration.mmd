@@ -1,0 +1,7 @@
+flowchart LR
+    C[AWS CodeCommit Repositories] --> I[Inventory & Metadata Export]
+    I --> S[Migration Script]
+    S --> G[Self-Hosted GitLab]
+    G --> V[Validation]
+    V --> P[Pipeline Migration]
+    P --> A[Access & Governance]

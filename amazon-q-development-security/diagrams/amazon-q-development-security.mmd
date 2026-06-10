@@ -1,0 +1,12 @@
+flowchart TD
+    D[Developer] --> IDE[IDE / Developer Portal]
+    IDE --> Q[Amazon Q]
+    Q --> Code[Code Suggestions]
+    Q --> Sec[Security Review]
+    Q --> Docs[Documentation]
+    Q --> Tests[Test Assistance]
+    Code --> PR[Pull Request]
+    Sec --> PR
+    Tests --> PR
+    PR --> CI[CI/CD]
+    CI --> Obs[Metrics & Feedback]
